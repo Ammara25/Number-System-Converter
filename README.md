@@ -19,4 +19,27 @@ A clean, responsive, and real-time **Number System Converter** web application. 
 
 ---
 
+## How to View
+
+1.  Clone this repository:
+    ```bash
+    git clone https://github.com/Ammara25/Number-System-converter
+    ```
+2.  Navigate to the project folder.
+3.  Open `index.html` in your browser.
+
+## Contact Me
+
+I am open to internships and collaborative projects!
+
+* **Email:** ummeammara790@gmail.com
+* **Role:** Web Developer | UI/UX Enthusiast
+## Author
+
+* **Umme Ammara**
+* **Education:** 2nd Year B.Tech in CSE (AI & ML)
+* **Role:** UI/UX Enthusiast & Web Developer
+---
+*© 2025 B.Tech CSE Portfolio - Designed by Umme Ammara*
+
 
